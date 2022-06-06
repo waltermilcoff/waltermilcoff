@@ -9,8 +9,10 @@ Gracias a un desarrollador puedes jugar un juego en tu PC, ver películas, crear
 Pero el software no es exclusivo de las computadoras, también los celulares, tabletas, televisiones y otros dispositivos inteligentes funcionan con software.
 
 Podes BUSCARME en:
--[Linkedin](www.linkedin.com/in/waltermilcoff)
--[Mí Página Web](waltermilcoff.com)
+
+-[Linkedin](https://www.linkedin.com/in/waltermilcoff)
+
+-[Mí Página Web](https://waltermilcoff.com)
 
 También podes escribirme a mi correo mail waltermilcoff@gmail.com y te estaré contestando a la brevedad. 
 
